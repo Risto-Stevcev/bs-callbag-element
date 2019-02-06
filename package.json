@@ -1,0 +1,34 @@
+{
+  "name": "@ristostevcev/bs-callbag-element",
+  "version": "0.1.0",
+  "description": "Callbag elements for declaredom",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Risto-Stevcev/bs-callbag-element.git"
+  },
+  "homepage": "https://github.com/Risto-Stevcev/bs-callbag-element",
+  "bugs": "https://github.com/Risto-Stevcev/bs-callbag-element/issues",
+  "scripts": {
+    "clean": "bsb -clean-world",
+    "build": "bsb -make-world",
+    "watch": "bsb -make-world -w",
+    "example": "parcel example/example.html"
+  },
+  "keywords": [
+    "BuckleScript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.2.6",
+    "bs-platform": "^4.0.7",
+    "parcel-bundler": "1.10.3"
+  },
+  "dependencies": {
+    "@ristostevcev/bs-callbag": "^1.1.0",
+    "@ristostevcev/bs-callbag-basics": "^1.2.0",
+    "@ristostevcev/bs-declaredom": "^0.1.1",
+    "bs-webapi": "^0.13.2",
+    "callbag-element": "^1.0.0"
+  }
+}
