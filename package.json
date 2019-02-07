@@ -1,6 +1,6 @@
 {
   "name": "@ristostevcev/bs-callbag-element",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Callbag elements for declaredom",
   "repository": {
     "type": "git",
@@ -17,8 +17,8 @@
   "keywords": [
     "BuckleScript"
   ],
-  "author": "",
-  "license": "MIT",
+  "author": "Risto Stevcev",
+  "license": "BSD-3-Clause",
   "devDependencies": {
     "@webcomponents/webcomponentsjs": "^2.2.6",
     "bs-platform": "^4.0.7",

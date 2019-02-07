@@ -1,5 +1,8 @@
 # bs-callbag-element
 
+[![Latest release](https://img.shields.io/npm/v/@ristostevcev/bs-callbag-element.svg?style=flat)](https://www.npmjs.com/package/@ristostevcev/bs-callbag-element)
+[![License](https://img.shields.io/npm/l/@ristostevcev/bs-callbag-element.svg?style=flat)](https://github.com/Risto-Stevcev/bs-callbag-element/blob/master/LICENSE)
+
 Callbag elements for declaredom
 
 ## Install
