@@ -690,13 +690,13 @@
   resolved "https://registry.yarnpkg.com/@ristostevcev/bs-callbag/-/bs-callbag-1.1.0.tgz#589e4b911716c72cc4fa9726222cba51f441f494"
   integrity sha512-jsPZV2cWj9gSpZDGs8xA3GxAuhCJYvB/NHuzxMw5SAGoaXVWwMZD+XtkPlnpdU9nFGGUXSyMn160Ge0MfFKxQQ==
 
-"@ristostevcev/bs-declaredom@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@ristostevcev/bs-declaredom/-/bs-declaredom-1.0.1.tgz#6926fef747de08380f98061496abc02570faf970"
-  integrity sha512-Ak9/5tPmu3ySA2vjT7qRYjmWmYvRhV4ZXkqlcx4gcgbe1+NeEz60IrJmC7RXaHG3BfybJLLllDu9giUSw1uChw==
+"@ristostevcev/bs-declaredom@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@ristostevcev/bs-declaredom/-/bs-declaredom-1.0.2.tgz#c605092bd5ac2dd8e0bf454ac8dc610436bc0360"
+  integrity sha512-h0X6Lx4oiGE2ATVn1m0rq+NfCgMVspSk0pwbeiTQidC6bNA6uZEqoPQvJZ542FsiBWEDAkSiIPIUKjmi796XZA==
   dependencies:
     bs-webapi "^0.13.2"
-    declaredom "^2.0.0"
+    declaredom "^2.1.0"
 
 "@types/q@^1.5.1":
   version "1.5.2"
@@ -1851,10 +1851,10 @@ decamelize@^1.1.2:
   resolved "https://registry.yarnpkg.com/decamelize/-/decamelize-1.2.0.tgz#f6534d15148269b20352e7bee26f501f9a191290"
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
-declaredom@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/declaredom/-/declaredom-2.0.0.tgz#1fe058263fa6fb7fe0afaf95514c50b0fe7767ee"
-  integrity sha512-JZaZufUpXg3un3kOdQY4cbfxuj28Sipb3eYSp5GaS4UzhOyeyUGix6Figb+zy7Yui2A6BYCY3qmltN1IFShyIA==
+declaredom@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/declaredom/-/declaredom-2.1.0.tgz#f11a16e95275b7ef67947259fd14bf9e06c7021f"
+  integrity sha512-faDbb8BBRWB0rNy/3VzgmLbnnP84I0/TdsfZuEl5j7ByvXCrajlHU9VOvJnbRBx/B+7/Y3cW9rpZbQJYssxb1w==
 
 decode-uri-component@^0.2.0:
   version "0.2.0"
