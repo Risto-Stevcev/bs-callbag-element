@@ -1131,10 +1131,10 @@ callbag-concat@1.0.x:
   resolved "https://registry.yarnpkg.com/callbag-concat/-/callbag-concat-1.0.1.tgz#9023732ab2a3c5b98e06628e6eb603da2e696280"
   integrity sha512-dwJA0aU/xE8eeoQ5I/lXQQM/7fKIJm0dRXGzLfx1LPo+EJaJIKPxqH12qgLIsAyQ3R1vtlg171iUMK4q8uy2jA==
 
-callbag-element@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/callbag-element/-/callbag-element-1.0.0.tgz#a56680e53e0cb583f176484cd7742e2b7afbf1ab"
-  integrity sha512-iBvtynTAHCRky6p4nrznS2zOhyS5IE+jlGunACW8XNzxslZuP+eRzDEzY6scpV1ujjNitDXbF0cFCgX8RB2RpA==
+callbag-element@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/callbag-element/-/callbag-element-2.0.0.tgz#8f4eecaedcf15623cc7da264200e8c3c817a2480"
+  integrity sha512-qWccjaQvGikWIGhTa6rhHEIJSkOi2jKyzLXqNzSrxBI8OGzxzcPmi1NWLmhXKo1Qeou+5t2M1j2JL3QcC64FrQ==
   dependencies:
     callbag-subscribe "^1.4.1"
     morphdom "^2.3.3"

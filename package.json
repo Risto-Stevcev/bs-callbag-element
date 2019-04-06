@@ -29,6 +29,6 @@
     "@ristostevcev/bs-callbag-basics": "^1.4.0",
     "@ristostevcev/bs-declaredom": "^1.0.1",
     "bs-webapi": "^0.13.6",
-    "callbag-element": "^1.0.0"
+    "callbag-element": "^2.0.0"
   }
 }
