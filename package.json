@@ -1,6 +1,6 @@
 {
   "name": "@ristostevcev/bs-callbag-element",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Callbag elements for declaredom",
   "repository": {
     "type": "git",
