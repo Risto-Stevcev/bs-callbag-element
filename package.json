@@ -27,7 +27,7 @@
   "dependencies": {
     "@ristostevcev/bs-callbag": "^1.1.0",
     "@ristostevcev/bs-callbag-basics": "^1.4.0",
-    "@ristostevcev/bs-declaredom": "^2.21.0",
+    "@ristostevcev/bs-declaredom": "^2.22.0",
     "bs-webapi": "^0.15.5",
     "callbag-element": "^2.0.0"
   }
