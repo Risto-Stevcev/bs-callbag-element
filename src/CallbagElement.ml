@@ -1,3 +1,5 @@
+open RistostevcevBsDeclaredom
+
 module Internal = struct
   external source: Dom.node -> Dom.node Callbag.t -> unit = "source" [@@bs.send]
 end

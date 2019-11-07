@@ -1,3 +1,5 @@
+open RistostevcevBsDeclaredom
+
 (** A wrapper for callbag-element *)
 
 type +'a t = 'a Html.Node.t
